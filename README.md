@@ -1,4 +1,4 @@
-# 🛠️ Engineering-Lab
+# 🛠️ my journey
 
 Welcome to my technology workshop! 🚀
 
