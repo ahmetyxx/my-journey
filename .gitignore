@@ -1,2 +1,3 @@
 *.json
 /python-courses/100-days-of-code/__pycache__
+*.pyc
