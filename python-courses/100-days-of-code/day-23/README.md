@@ -1,3 +1,3 @@
-same as yesterday
+easier than yesterday
 
-you can find the cod files of day23 in here
+you can find the cod files of day24 in here
