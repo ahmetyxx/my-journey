@@ -9,5 +9,9 @@ alphabet={row.letter:row.code for _,row in alphabet.iterrows()}
 
 #TODO 2. Create a list of the phonetic code words from a word that the user inputs.
 word=input("enter a word: ").upper()
-nato_list=[alphabet[letter] for letter in word ]
-print(nato_list)
+try:
+    nato_list=[alphabet[letter] for letter in word ]
+except KeyError:
+    print("\njust letters please!\n")
+else:
+    print(nato_list)
